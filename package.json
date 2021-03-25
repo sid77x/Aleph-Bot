@@ -1,0 +1,17 @@
+{
+  "name": "aleph-bot",
+  "version": "1.0.0",
+  "description": "bot by plide and boltex",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boltex and plide",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-avatar": "^1.0.0",
+    "dsc-meme": "^1.1.0",
+    "random-stuff-api": "^9.5.0"
+  }
+}
