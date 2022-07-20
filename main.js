@@ -113,7 +113,7 @@ else if(command==='wholesome')
 {
     api.image.wholesome()
     .then(wholesome => {
-        message.channel.send(wholesome)
+        message.channel.send(wholesome) //error here?
       })
 }
 else if(command==='deadinside')
